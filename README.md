@@ -1,4 +1,4 @@
-# Telecom Churn Prediction
+# Telecom Churn Prediction 
 
 ## Overview
 This project focuses on predicting customer churn for a telecom company using data from four consecutive months. The goal is to predict churn in the last month (September) using data from the first three months (June, July, August).
